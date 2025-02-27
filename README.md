@@ -96,6 +96,8 @@ Musinsaigo Stable Diffusion 모델을 사용하여 사용자의 취향에 맞는
 최신 패션 트렌드를 분석하여 사용자에게 유용한 정보를 제공한다.
 예를 들어, 현재 인기 있는 컬러, 패턴, 스타일을 반영하여 스타일링 팁을 함께 제공할 수 있다.
 
+<br>
+
  > # <b> 4. 챗봇 예시
  <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/03bed83c-e435-47b4-b808-662f3c08b222" />
 
